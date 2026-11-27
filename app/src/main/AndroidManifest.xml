@@ -31,8 +31,8 @@
 
     <!-- Android 11+: the two supported games, plus launchable apps for detection -->
     <queries>
-        <package android:name="com.LanPiaoPiao.PlantsVsZombiesRH" />
-        <package android:name="com.LanPiaoPiao.PlantsVsZombiesRHMod" />
+        <package android:name="com.LanPiaoPiao.PlantsVsZombiesEN" />
+        <package android:name="com.LanPiaoPiao.PlantsVsZombiesENMod" />
         <intent>
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
