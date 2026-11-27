@@ -24,8 +24,8 @@ object GameDetector {
      * The same names are declared in the manifest `<queries>` block.
      */
     internal val SUPPORTED_PACKAGES = setOf(
-        "com.LanPiaoPiao.PlantsVsZombiesRH",
-        "com.LanPiaoPiao.PlantsVsZombiesRHMod"
+        "com.LanPiaoPiao.PlantsVsZombiesEN",
+        "com.LanPiaoPiao.PlantsVsZombiesENMod"
     )
 
     /** True when Android 11+ package visibility already reveals a supported game. */
