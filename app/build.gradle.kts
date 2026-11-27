@@ -28,7 +28,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.pvzrh.android.launcher"
+        applicationId = "com.pvzen.android.launcher"
         minSdk = 28
         targetSdk = 35
         versionCode = ciBuildNumber
